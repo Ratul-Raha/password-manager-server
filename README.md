@@ -1,1 +1,1 @@
-# password-manager-server
+# auth-manager-server
